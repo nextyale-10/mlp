@@ -1,0 +1,11 @@
+Chen Yao
+cyao10@u.rochester.edu
+
+This folder, mlpProject, contains data folder for trainning and validation and code folder for source code.
+
+In starterCode, each time you run the train_mlp.py, the program would save a modelFile named in the following format: 
+{train file name}_{total epochs}_{learning rate}_{the number of hidden units}
+
+The modelFile is generated using ubuntu OS
+
+ 
